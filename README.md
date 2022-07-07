@@ -22,7 +22,7 @@ This app uses Node.JS, JavaScript, Inquirer, and Jest to retrieve information ab
 ![Team Profile Generator screenshot](https://user-images.githubusercontent.com/104277073/177684339-734fe2f2-f1fb-4d5d-8fab-c8ff2b3de918.jpg)
 
 Video walkthrough:
-<iframe src="https://drive.google.com/file/d/1ATgvNwXYRsO6CM3nqtSpCApNeDpqkTMa/preview" width="640" height="480"></iframe>
+"https://drive.google.com/file/d/1ATgvNwXYRsO6CM3nqtSpCApNeDpqkTMa/preview"
 
 ## Installation
 
