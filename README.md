@@ -17,8 +17,12 @@
 
 ## Description
 ---
-This app uses Node.JS, JavaScript, Inquirer, and Jest to retrieve information about employees from a user in order to generate an HTML webpage with summaries regarding each employee. A walkthrough video that demonstrates the functionality of the program and its tests is included below. The deployed application can be accessed here: , or in the about section of this repository.
+This app uses Node.JS, JavaScript, Inquirer, and Jest to retrieve information about employees from a user in order to generate an HTML webpage with summaries regarding each employee. A walkthrough video that demonstrates the functionality of the program and its tests is included below.
     
+![Team Profile Generator screenshot](https://user-images.githubusercontent.com/104277073/177684339-734fe2f2-f1fb-4d5d-8fab-c8ff2b3de918.jpg)
+
+Video walkthrough:
+<iframe src="https://drive.google.com/file/d/1ATgvNwXYRsO6CM3nqtSpCApNeDpqkTMa/preview" width="640" height="480"></iframe>
 
 ## Installation
 
